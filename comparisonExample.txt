@@ -1,4 +1,4 @@
-Adding info in master branch
+adding content in New-Branch
 Updated the file with New-Branch
 step4: file with this content available in working directory only.
 step3: file with this content available in stagging.
