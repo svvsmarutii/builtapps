@@ -1,2 +1,5 @@
+Updated the file with New-Branch
+step4: file with this content available in working directory only.
+step3: file with this content available in stagging.
 step2: file with this content available in local repository only.
 step1: this will be updated to remote repository ie github
