@@ -1,1 +1,2 @@
+step2: file with this content available in local repository only.
 step1: this will be updated to remote repository ie github
