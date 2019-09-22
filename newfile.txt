@@ -1,2 +1,3 @@
+Adding line to check the remote repo rebase concept
 Adding line to understand rebase concept
 File to understand rebase
