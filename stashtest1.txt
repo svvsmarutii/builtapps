@@ -1,0 +1,1 @@
+stashtest1.txt - to understand stash command
