@@ -1,1 +1,2 @@
+Adding line to understand rebase concept
 File to understand rebase
